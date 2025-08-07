@@ -1,0 +1,23 @@
+# === ARCHIVOS COMPILADOS ===
+*.class
+
+# === CARPETAS DE COMPILACIÓN ===
+bin/
+
+# === CONFIGURACIÓN DE VISUAL STUDIO CODE ===
+.vscode/
+
+# === ARCHIVOS TEMPORALES Y DE SISTEMA ===
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# === ARCHIVOS SWAP / BLOQUEO ===
+*.swp
+*.swo
+*.lock
+
+lib/
